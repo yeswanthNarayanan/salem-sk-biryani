@@ -11,7 +11,11 @@ export default function robots(): MetadataRoute.Robots {
         userAgent: 'Googlebot',
         allow: '/',
       },
+      {
+        userAgent: 'Bingbot',
+        allow: '/',
+      },
     ],
-    sitemap: 'https://salemskbiryani.com/sitemap.xml',
+    sitemap: 'https://salem-sk-biryani.vercel.app/sitemap.xml',
   }
 }

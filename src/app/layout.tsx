@@ -79,7 +79,7 @@ export const metadata: Metadata = {
     telephone: true,
     email: false,
   },
-  metadataBase: new URL("https://salemskbiryani.com"),
+  metadataBase: new URL("https://salem-sk-biryani.vercel.app"),
   alternates: {
     canonical: "/",
   },
